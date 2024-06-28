@@ -1,0 +1,12 @@
+:root {
+    --bs-body-bg: #1b1b1b;
+    --bs-body-color: #e0e0e0;
+}
+
+#new-task {
+    border-radius: 10px;
+}
+
+#new-task::placeholder {
+    color: #919191;
+}
